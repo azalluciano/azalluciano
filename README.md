@@ -56,6 +56,25 @@
 
 <br>
 
+
+<br>
+
+<details open>
+    <summary>
+        <b>🏆 Trophies.</b>
+        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
+    <br/>
+    <div>
+        <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
+    </div>
+</details>
+
+<br/>
+
+
 ## 🛠️ Expérience Professionnelle
 
 ### Technical Lead | Osmosis Business Solution
