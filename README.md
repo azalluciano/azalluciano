@@ -5,16 +5,13 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=laza-luciano&label=Profil%20vu&color=2563eb&style=for-the-badge)
   [![Email](https://img.shields.io/badge/Email-lazaluciano327%40gmail.com-2563eb?style=for-the-badge&logo=gmail)](mailto:lazaluciano327@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laza_Luciano-2563eb?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/laza-luciano-randriamoratony/](https://www.linkedin.com/in/laza-luciano-randriamoratony-2a1aa4240/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laza_Luciano-2563eb?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laza-luciano-randriamoratony-2a1aa4240/)
   
 </div>
 
 <br>
 
-## 🚀 À propos de moi
-<summary>
-    <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
-</summary>
+## <img src="assets/animated-flame-01.gif" width="16px"/> 🚀 À propos de moi
 > Technical Lead passionné avec une expertise solide en développement web fullstack et une affinité pour les solutions efficaces. Combinant créativité technique et leadership pour transformer des concepts en produits robustes.
 
 - 🏢 **Technical Lead** chez [**Osmosis Business Solution**](https://osmosis-solution.mg/)
@@ -22,9 +19,9 @@
 - 💡 Passionné par les technologies web, les jeux vidéo et les motos!
 - 🌍 **Langues**: Malagasy (natif), Français (professionnel), Anglais (intermédiaire)
 
-<br>
+<img src="assets/borderseparator.gif" width="100%"/>
 
-## 💻 Stack Technique
+## <img src="assets/animated-flame-01.gif" width="16px"/> 💻 Stack Technique
 
 <div align="center">
 
@@ -56,28 +53,18 @@
 
 </div>
 
-<br>
+<img src="assets/borderseparator.gif" width="100%"/>
 
+## <img src="assets/animated-flame-01.gif" width="16px"/> 🏆 Trophées
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=azalluciano&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="azalluciano Github Trophies" width="100%"/>
+</div>
 
-## 💻 🏆 Trophies.
-<details open>
-    <summary>
-        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
-    </summary>
-    <img src="assets/borderseparator.gif"/>
-    <br/>
-    <br/>
-    <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=azalluciano&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="azalluciano Github Trophies" width="100%"/>
-    </div>
-</details>
+<img src="assets/borderseparator.gif" width="100%"/>
 
-<br/>
+## <img src="assets/animated-flame-01.gif" width="16px"/> 🛠️ Expérience Professionnelle
 
-
-## 🛠️ Expérience Professionnelle
-
-### Technical Lead | Osmosis Business Solution
+### <img src="assets/animated-flame-01.gif" width="14px"/> Technical Lead | Osmosis Business Solution
 <sub>*Juillet 2024 - Présent*</sub>
 
 - ✅ Analyse des besoins clients et traduction technique
@@ -85,7 +72,7 @@
 - ✅ Revues de code et mentorat d'équipe
 - ✅ Support technique et résolution de problèmes
 
-### Web Developer | Osmosis Business Solution
+### <img src="assets/animated-flame-01.gif" width="14px"/> Web Developer | Osmosis Business Solution
 <sub>*Novembre 2022 - Juin 2024*</sub>
 
 - ✅ Module de calcul de paie utilisant Omnis Studio & PostgreSQL
@@ -95,9 +82,11 @@
 - ✅ Contribution au développement de Stalion RH (solution de gestion RH)
 - ✅ Plateforme My-Inscription pour l'Université du Gabon
 
-<br>
+<img src="assets/borderseparator.gif" width="100%"/>
 
-## 📚 Formation
+## <img src="assets/animated-flame-01.gif" width="16px"/> 📚 Formation
+
+<div align="center">
 
 | Diplôme | Institution | Période |
 |---------|-------------|---------|
@@ -105,9 +94,11 @@
 | Licence Informatique | Université E-media | 2019-2021 |
 | BAC Série C | Lycée Stella Maris | 2018 |
 
-<br>
+</div>
 
-## 📊 Statistiques GitHub
+<img src="assets/borderseparator.gif" width="100%"/>
+
+## <img src="assets/animated-flame-01.gif" width="16px"/> 📊 Statistiques GitHub
 
 <div align="center">
   
@@ -116,9 +107,9 @@
   
 </div>
 
-<br>
+<img src="assets/borderseparator.gif" width="100%"/>
 
-## 🤝 Connectons-nous !
+## <img src="assets/animated-flame-01.gif" width="16px"/> 🤝 Connectons-nous !
 
 <div align="center">
   
@@ -129,11 +120,10 @@
 
 </div>
 
-
-
-
----
+<img src="assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
+  <img src="assets/animated-flame-01.gif" width="16px"/>
   <sub>💼 Ouvert aux opportunités de collaboration et aux projets intéressants</sub>
+  <img src="assets/animated-flame-01.gif" width="16px"/>
 </div>
