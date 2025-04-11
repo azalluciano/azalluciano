@@ -57,8 +57,7 @@
 <br>
 
 
-<br>
-    ## 💻 🏆 Trophies.
+## 💻 🏆 Trophies.
 <details open>
     <summary>
         <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
