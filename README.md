@@ -1,26 +1,28 @@
-# <div align="center">👨‍💻 Laza Luciano Randriamoratony</div>
+<div align="center">👨‍💻 Laza Luciano Randriamoratony</div>
 <div align="center"><strong>Technical Lead & Web Developer</strong> | Madagascar 🇲🇬</div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=laza-luciano&label=Profil%20vu&color=2563eb&style=for-the-badge)
-  [![Email](https://img.shields.io/badge/Email-lazaluciano327%40gmail.com-2563eb?style=for-the-badge&logo=gmail)](mailto:lazaluciano327@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laza_Luciano-2563eb?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/laza-luciano-randriamoratony/](https://www.linkedin.com/in/laza-luciano-randriamoratony-2a1aa4240/))
-  
+![Profile Views](https://komarev.com/ghpvc/?username=laza-luciano&label=Profil%20vu&color=2563eb&style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-lazaluciano327%40gmail.com-2563eb?style=for-the-badge&logo=gmail)](mailto:lazaluciano327@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laza_Luciano-2563eb?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laza-luciano-randriamoratony-2a1aa4240/)
+
 </div>
 
 <br>
 
 ## 🚀 À propos de moi
-<summary>
-    <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
-</summary>
+
 > Technical Lead passionné avec une expertise solide en développement web fullstack et une affinité pour les solutions efficaces. Combinant créativité technique et leadership pour transformer des concepts en produits robustes.
 
 - 🏢 **Technical Lead** chez [**Osmosis Business Solution**](https://osmosis-solution.mg/)
 - 🎓 Master 1 en Informatique (CNTEMAD)
 - 💡 Passionné par les technologies web, les jeux vidéo et les motos!
 - 🌍 **Langues**: Malagasy (natif), Français (professionnel), Anglais (intermédiaire)
+
+<div align="center">
+  <img src="assets/animated-flame-01.gif" width="60"/>
+</div>
 
 <br>
 
@@ -56,24 +58,23 @@
 
 </div>
 
+<div align="center">
+  <img src="assets/animated-flame-01.gif" width="60"/>
+</div>
+
 <br>
 
+## 🏆 Github Trophies
 
-## 💻 🏆 Trophies.
-<details open>
-    <summary>
-        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
-    </summary>
-    <img src="assets/borderseparator.gif"/>
-    <br/>
-    <br/>
-    <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=azalluciano&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="azalluciano Github Trophies" width="100%"/>
-    </div>
-</details>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laza-luciano&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Github Trophies" width="100%"/>
+</div>
 
-<br/>
+<div align="center">
+  <img src="assets/animated-flame-01.gif" width="60"/>
+</div>
 
+<br>
 
 ## 🛠️ Expérience Professionnelle
 
@@ -81,59 +82,12 @@
 <sub>*Juillet 2024 - Présent*</sub>
 
 - ✅ Analyse des besoins clients et traduction technique
-- ✅ Planification de projets et gestion de tâches
-- ✅ Revues de code et mentorat d'équipe
-- ✅ Support technique et résolution de problèmes
-
-### Web Developer | Osmosis Business Solution
-<sub>*Novembre 2022 - Juin 2024*</sub>
-
-- ✅ Module de calcul de paie utilisant Omnis Studio & PostgreSQL
-- ✅ Utilitaires Node.js (export Excel, compression de fichiers, conversion d'images)
-- ✅ Modules de gestion des contrats, présences, congés et facturation
-- ✅ Module CRM (Customer Relationship Management)
-- ✅ Contribution au développement de Stalion RH (solution de gestion RH)
-- ✅ Plateforme My-Inscription pour l'Université du Gabon
-
-<br>
-
-## 📚 Formation
-
-| Diplôme | Institution | Période |
-|---------|-------------|---------|
-| Master 1 Informatique | CNTEMAD | 2024 |
-| Licence Informatique | Université E-media | 2019-2021 |
-| BAC Série C | Lycée Stella Maris | 2018 |
-
-<br>
-
-## 📊 Statistiques GitHub
+- ✅ Planification de projets
+- ✅ Encadrement des équipes techniques
+- ✅ Architecture et développement d'applications web et mobiles
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=azalluciano&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azalluciano&theme=tokyonight&hide_border=true" height="170" />
-  
+  <img src="assets/animated-flame-01.gif" width="60"/>
 </div>
 
 <br>
-
-## 🤝 Connectons-nous !
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laza-luciano-randriamoratony-2a1aa4240/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luciano.walker.52)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azalluciano)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazaluciano327@gmail.com)
-
-</div>
-
-
-
-
----
-
-<div align="center">
-  <sub>💼 Ouvert aux opportunités de collaboration et aux projets intéressants</sub>
-</div>
