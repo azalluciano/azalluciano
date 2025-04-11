@@ -5,7 +5,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=laza-luciano&label=Profil%20vu&color=2563eb&style=for-the-badge)
   [![Email](https://img.shields.io/badge/Email-lazaluciano327%40gmail.com-2563eb?style=for-the-badge&logo=gmail)](mailto:lazaluciano327@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laza_Luciano-2563eb?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laza-luciano-randriamoratony/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laza_Luciano-2563eb?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/laza-luciano-randriamoratony/](https://www.linkedin.com/in/laza-luciano-randriamoratony-2a1aa4240/))
   
 </div>
 
