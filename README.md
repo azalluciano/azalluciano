@@ -12,7 +12,9 @@
 <br>
 
 ## 🚀 À propos de moi
-
+<summary>
+    <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</summary>
 > Technical Lead passionné avec une expertise solide en développement web fullstack et une affinité pour les solutions efficaces. Combinant créativité technique et leadership pour transformer des concepts en produits robustes.
 
 - 🏢 **Technical Lead** chez [**Osmosis Business Solution**](https://osmosis-solution.mg/)
