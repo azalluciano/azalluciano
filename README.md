@@ -103,8 +103,7 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=azalluciano&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azalluciano&theme=tokyonight&hide_border=true" height="170" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azalluciano&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <img src="assets/borderseparator.gif" width="100%"/>
