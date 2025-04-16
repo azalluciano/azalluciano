@@ -64,24 +64,6 @@
 
 ## <img src="assets/animated-flame-01.gif" width="16px"/> 🛠️ Expérience Professionnelle
 
-### <img src="assets/animated-flame-01.gif" width="14px"/> Technical Lead | Osmosis Business Solution
-<sub>*Juillet 2024 - Présent*</sub>
-
-- ✅ Analyse des besoins clients et traduction technique
-- ✅ Planification de projets et gestion de tâches
-- ✅ Revues de code et mentorat d'équipe
-- ✅ Support technique et résolution de problèmes
-
-### <img src="assets/animated-flame-01.gif" width="14px"/> Web Developer | Osmosis Business Solution
-<sub>*Novembre 2022 - Juin 2024*</sub>
-
-- ✅ Module de calcul de paie utilisant Omnis Studio & PostgreSQL
-- ✅ Utilitaires Node.js (export Excel, compression de fichiers, conversion d'images)
-- ✅ Modules de gestion des contrats, présences, congés et facturation
-- ✅ Module CRM (Customer Relationship Management)
-- ✅ Contribution au développement de Stalion RH (solution de gestion RH)
-- ✅ Plateforme My-Inscription pour l'Université du Gabon
-
 <img src="assets/borderseparator.gif" width="100%"/>
 
 ## <img src="assets/animated-flame-01.gif" width="16px"/> 📚 Formation
