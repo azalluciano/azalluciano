@@ -60,11 +60,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=azalluciano&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="azalluciano Github Trophies" width="100%"/>
 </div>
 
-<img src="assets/borderseparator.gif" width="100%"/>
-
-## <img src="assets/animated-flame-01.gif" width="16px"/> 🛠️ Expérience Professionnelle
-
-<img src="assets/borderseparator.gif" width="100%"/>
 
 ## <img src="assets/animated-flame-01.gif" width="16px"/> 📚 Formation
 
